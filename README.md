@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dafnckstudio-dafnckmachine-v3-1-badge.png)](https://mseep.ai/app/dafnckstudio-dafnckmachine-v3-1)
+
 $$$$$$$\   $$$$$$\  $$$$$$$$\ $$\   $$\  $$$$$$\  $$\   $$\ 
 $$  __$$\ $$  __$$\ $$  _____|$$$\  $$ |$$  __$$\ $$ | $$  |
 $$ |  $$ |$$ /  $$ |$$ |      $$$$\ $$ |$$ /  \__|$$ |$$  / 
